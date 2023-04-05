@@ -25,4 +25,4 @@ Design and development of VA of Cloud computing performance
 
 
 ### Result
-
+![cloud_result](https://user-images.githubusercontent.com/14234116/230156617-8ac8b86e-c549-4d1d-9283-d41d1f801b4a.png)
